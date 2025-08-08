@@ -1,0 +1,2 @@
+<b>This repository contains written codes for the problems given by CODSOFT for their online internship. </b> <br> <br>
+<b> Additional info.- </b> I created a repository named codsoft earlier this week, but due to some unexpected problems, i had to delete the entire project. I then created a new project, copy pasted all three codes in new class files and push it again in a new repository i.e. this current repository, i hope it doesn't negatively affect my project and internship at large. Thank you.
